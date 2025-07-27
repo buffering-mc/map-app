@@ -1,0 +1,12 @@
+# .dockerignore for frontend
+node_modules
+npm-debug.log
+dist
+.next
+out
+.env
+.env.*
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
